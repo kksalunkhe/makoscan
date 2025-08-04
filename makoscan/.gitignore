@@ -1,6 +1,0 @@
-/target
-*.txt
-*.pcap
-*.md
-*.pdf
-__pycache__/
